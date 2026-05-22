@@ -69,3 +69,6 @@ ref: [sklearn DecisionTreeClassifier](https://scikit-learn.org/1.8/modules/gener
 ![alt text](image-17.png)
 ![alt text](image-18.png)
 ![alt text](image-19.png)
+
+
+## PCA
